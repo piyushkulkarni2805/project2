@@ -1,3 +1,3 @@
 # new project
-thus project was createdfrom local system.
+this project was created from local system.
 created by piyush kulkarni
